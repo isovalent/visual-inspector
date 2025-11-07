@@ -1,6 +1,6 @@
 # Visual Inspector
 
-A comprehensive web-based tool for inspecting and debugging Cilium and Tetragonin Kubernetes clusters. Visual Inspector provides an intuitive interface to visualize troubleshooting steps involving a sysdump, policy paths, test connectivity, capture packets, and trace network flows.
+A comprehensive web-based tool for inspecting and debugging Cilium and Tetragon in Kubernetes clusters. Visual Inspector provides an intuitive interface to visualize troubleshooting steps involving a sysdump, policy paths, test connectivity, capture packets, and trace network flows.
 
 ## Overview
 
